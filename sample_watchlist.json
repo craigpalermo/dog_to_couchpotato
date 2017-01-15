@@ -1,0 +1,365 @@
+{
+  "attributes": {
+    "version": "1.0",
+    "items": "51"
+  },
+  "items": [
+    {
+      "name": "The Founder",
+      "ids": {
+        "IMDb": "tt4276820"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Jack Reacher: Never Go Back",
+      "ids": {
+        "IMDb": "tt3393786"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Doctor Strange",
+      "ids": {
+        "IMDb": "tt1211837"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Logan",
+      "ids": {
+        "IMDb": "tt3315342"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "John Wick: Chapter Two",
+      "ids": {
+        "IMDb": "tt4425200"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Hacksaw Ridge",
+      "ids": {
+        "IMDb": "tt2119532"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Nocturnal Animals",
+      "ids": {
+        "IMDb": "tt4550098"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Bad Santa 2",
+      "ids": {
+        "IMDb": "tt1798603"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Allied",
+      "ids": {
+        "IMDb": "tt3640424"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Office Christmas Party",
+      "ids": {
+        "IMDb": "tt1711525"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Passengers",
+      "ids": {
+        "IMDb": "tt1355644"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Silence",
+      "ids": {
+        "IMDb": "tt0490215"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Patriots Day",
+      "ids": {
+        "IMDb": "tt4572514"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Why Him?",
+      "ids": {
+        "IMDb": "tt4501244"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "The Promise",
+      "ids": {
+        "IMDb": "tt4552298"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "The Mountain II",
+      "ids": {
+        "IMDb": "tt5813916"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Arrival",
+      "ids": {
+        "IMDb": "tt2543164"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "The Ivory Game",
+      "ids": {
+        "IMDb": "tt5952266"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Paterson",
+      "ids": {
+        "IMDb": "tt5247022"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Street Level",
+      "ids": {
+        "IMDb": "tt4438594"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Wish For Christmas",
+      "ids": {
+        "IMDb": "tt4700190"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "The Edge of Seventeen",
+      "ids": {
+        "IMDb": "tt1878870"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Manchester by the Sea",
+      "ids": {
+        "IMDb": "tt4034228"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Mars",
+      "ids": {
+        "IMDb": "tt4939064"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Peter and the Farm",
+      "ids": {
+        "IMDb": "tt5535814"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Moana",
+      "ids": {
+        "IMDb": "tt3521164"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Inner Workings",
+      "ids": {
+        "IMDb": "tt5807512"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Rillington Place",
+      "ids": {
+        "IMDb": "tt5568438"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Gilmore Girls: A Year in the Life",
+      "ids": {
+        "IMDb": "tt5435008"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "La La Land",
+      "ids": {
+        "IMDb": "tt3783958"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "The Legend of Ben Hall",
+      "ids": {
+        "IMDb": "tt3844876"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Jackie",
+      "ids": {
+        "IMDb": "tt1619029"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "A Cinderella Christmas",
+      "ids": {
+        "IMDb": "tt6185074"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Dear Zindagi",
+      "ids": {
+        "IMDb": "tt5946128"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Marathon: The Patriots Day Bombing",
+      "ids": {
+        "IMDb": "tt6047906"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Uno: The Movie",
+      "ids": {
+        "IMDb": "tt6290024"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Spectral",
+      "ids": {
+        "IMDb": "tt2106651"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Heaven Sent",
+      "ids": {
+        "IMDb": "tt3920060"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "The Trans List",
+      "ids": {
+        "IMDb": "tt5784340"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Leap!",
+      "ids": {
+        "IMDb": "tt2261287"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Sing",
+      "ids": {
+        "IMDb": "tt3470600"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Don't Hang Up",
+      "ids": {
+        "IMDb": "tt3610746"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "The OA",
+      "ids": {
+        "IMDb": "tt4635282"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Hidden Figures",
+      "ids": {
+        "IMDb": "tt4846340"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Fences",
+      "ids": {
+        "IMDb": "tt2671706"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Dangal",
+      "ids": {
+        "IMDb": "tt5074352"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "To Walk Invisible",
+      "ids": {
+        "IMDb": "tt5594080"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "20th Century Women",
+      "ids": {
+        "IMDb": "tt4385888"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "LBJ",
+      "ids": {
+        "IMDb": "tt4778988"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Shooting Clerks",
+      "ids": {
+        "IMDb": "tt3449200"
+      },
+      "quality": "144"
+    },
+    {
+      "name": "Endless Poetry",
+      "ids": {
+        "IMDb": "tt4451458"
+      },
+      "quality": "144"
+    }
+  ]
+}
